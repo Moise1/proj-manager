@@ -7,7 +7,7 @@ export const Header = () => {
         <a className='navbar-brand' href='/'>
           <div className='d-flex'>
             <img src={logo} alt='logo' className='mr-2' />
-            <div>ProjectMgmt</div>
+            <div>Proj Manager</div>
           </div>
         </a>
       </div>
